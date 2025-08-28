@@ -39,7 +39,7 @@ bash ./MiniGPT4/scripts/train_loop.sh
 ### 1. Download Pretrained Weights
 
 Please download the best virtual token weights from the provided link: 
-[PATCH_ckpt](https://drive.google.com/file/d/1_SLslW5MlXKfUiEfNeSkLKf0YA2-eB87/view?usp=sharing)
+[PATCH_ckpt](https://drive.google.com/file/d/1xs7pkrpm8-jYjSigcFTt8sexg0IsL0nc/view?usp=sharing)
 
 ### 2. Configure Evaluation Parameters
 
